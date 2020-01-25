@@ -3,22 +3,11 @@
 
 $teste = "Nome";
 $teste1 = "Sobrenome";
+$teste1 = "Idade";
 
 echo $teste;
 echo $teste1;
-
-
-?>
-=======
-echo $teste . "NOME";
-
-echo $teste;
-
-
-$testando = "New test";
-
-echo $testando;
+echo $teste2;
 
 ?>
-
 
