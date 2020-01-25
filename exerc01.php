@@ -8,4 +8,6 @@ echo $teste;
 
 echo $teste . "NOME";
 
+echo $teste;
+
 ?>
