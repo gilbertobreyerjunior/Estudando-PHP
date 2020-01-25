@@ -1,2 +1,11 @@
-Maciel
-Teste3
+<?php
+
+
+$teste = "Nome";
+
+
+echo $teste;
+
+
+
+?>
