@@ -5,7 +5,11 @@ $teste = "Nome";
 $teste1 = "Sobrenome";
 
 echo $teste;
+echo $teste1;
 
+
+?>
+=======
 echo $teste . "NOME";
 
 echo $teste;
@@ -17,5 +21,4 @@ echo $testando;
 
 ?>
 
-Maciel
-Teste 5
+
