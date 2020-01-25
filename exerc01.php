@@ -15,6 +15,9 @@ $testando = "New test";
 
 echo $testando;
 
+
+echo $teste;
+
 ?>
 
 Maciel
