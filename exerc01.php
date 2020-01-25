@@ -10,4 +10,9 @@ echo $teste . "NOME";
 
 echo $teste;
 
+
+$testando = "New test";
+
+echo $testando;
+
 ?>
